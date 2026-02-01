@@ -1,0 +1,21 @@
+{
+    "Company": "Dell",
+    "TypeName": "Notebook",
+    "OS": "Windows 10",
+    "Screen": "Full HD",
+    "Touchscreen": "No",
+    "IPSpanel": "Yes",
+    "RetinaDisplay": "No",
+    "CPU_company": "Intel",
+    "PrimaryStorageType": "SSD",
+    "SecondaryStorageType": "No",
+    "GPU_company": "Intel",
+    "Inches": 15.6,
+    "Ram": 8,
+    "Weight": 2.0,
+    "ScreenW": 1920,
+    "ScreenH": 1080,
+    "CPU_freq": 2.5,
+    "PrimaryStorage": 256,
+    "SecondaryStorage": 0
+}

@@ -1,0 +1,26 @@
+{
+    "r2_score": 84.81,
+    "num_columns": [
+        "Inches",
+        "Ram",
+        "Weight",
+        "ScreenW",
+        "ScreenH",
+        "CPU_freq",
+        "PrimaryStorage",
+        "SecondaryStorage"
+    ],
+    "cat_columns": [
+        "Company",
+        "TypeName",
+        "OS",
+        "Screen",
+        "Touchscreen",
+        "IPSpanel",
+        "RetinaDisplay",
+        "CPU_company",
+        "PrimaryStorageType",
+        "SecondaryStorageType",
+        "GPU_company"
+    ]
+}
